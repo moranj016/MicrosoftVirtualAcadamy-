@@ -1,2 +1,2 @@
 # MicrosoftVirtualAcadamy-
-# Testing things learned on the Virtual Acadamt
+# Testing things learned on the Virtual Acadamy
